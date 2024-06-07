@@ -1,0 +1,22 @@
+/*
+ * UART_Cfg.h
+ *
+ *  Created on: Jul 8, 2023
+ *      Author: hassan
+ */
+
+#ifndef MCAL_UART_UART_CFG_H_
+#define MCAL_UART_UART_CFG_H_
+
+#define UART_SPEED NORMAL_SPEED
+#define MPCM_ENABLE UART_DISABLE
+#define USART_MODE ASYNCHRONOUS
+#define PARITY PARITY_DISABLED
+#define STOP_BITS STOP_BIT_1
+#define CHAR_SIZE _8_BITS
+#define BAUD_RATE 9600
+#define TX_INTERRUPT UART_DISABLE
+#define RX_INTERRUPT UART_DISABLE
+#define DATA_REG_EMPTY_INTERRUPT UART_DISABLE
+
+#endif /* MCAL_UART_UART_CFG_H_ */

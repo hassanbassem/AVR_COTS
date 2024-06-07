@@ -1,0 +1,19 @@
+/*
+ * STEPPER_Cfg.h
+ *
+ *  Created on: Jun 13, 2023
+ *      Author: hassan
+ */
+
+#ifndef INCLUDE_HAL_STEPPER_STEPPER_CFG_H_
+#define INCLUDE_HAL_STEPPER_STEPPER_CFG_H_
+
+#define STEPPER_PORT PORTA
+
+#define BLUE_WIRE_PIN PIN0
+#define PINK_WIRE_PIN PIN1
+#define YELLOW_WIRE_PIN PIN2
+#define ORANGE_WIRE_PIN PIN3
+
+
+#endif /* INCLUDE_HAL_STEPPER_STEPPER_CFG_H_ */

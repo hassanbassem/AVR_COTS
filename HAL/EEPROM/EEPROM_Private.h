@@ -1,0 +1,14 @@
+/*
+ * EEPROM_Private.h
+ *
+ *  Created on: Aug 2, 2023
+ *      Author: hassan
+ */
+
+#ifndef INCLUDE_HAL_EEPROM_AT24C08_EEPROM_PRIVATE_H_
+#define INCLUDE_HAL_EEPROM_AT24C08_EEPROM_PRIVATE_H_
+
+#define CONSTANT_PART 0b01010000
+#define A2_POSITION 2
+
+#endif /* INCLUDE_HAL_EEPROM_AT24C08_EEPROM_PRIVATE_H_ */
